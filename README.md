@@ -1,8 +1,3 @@
-# robofriends
-Tutorial for udemy course - React + Redux
+#RoboFriends App Using React and Redux
 
-To run the project:
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+This applictaion utilizes all the fundamental concepts of React like state,props,lifeCycle and handles state management with Redux .
